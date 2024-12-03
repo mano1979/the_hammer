@@ -2,7 +2,7 @@
   "Configurations": [
     {
       "Version": "1.0.1",
-      "URL": "https://example.com/myimages/example.esp32_dev.v2.bin"
+      "URL": "https://github.com/mano1979/the_hammer/raw/refs/heads/main/TheHammerFWv1.0.1.bin"
     }
   ]
 }
